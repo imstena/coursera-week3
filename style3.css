@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    border:0;
+    margin: 0;
+}
+h1{
+  text-align: center;
+  color:black;
+  font-style: bold;
+  font-family: Serif, sans-serif;
+}
+
+.nav-css {
+    background-color: #CBAFEE;
+    border: 2px solid;
+}
+.item {
+    border: 2px solid;
+    padding: 20px;
+    background-color: #CBAFEE;
+    margin-bottom: 10px;   
+   
+}
+
+
+
+
+
+.menu-title {
+  
+    font-weight: bold;
+} 
+
